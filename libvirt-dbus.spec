@@ -14,7 +14,7 @@ BuildRequires: pkgconfig(libvirt)
 BuildRequires: pkgconfig(libvirt-glib-1.0)
 BuildRequires: /usr/bin/pod2man
 BuildRequires: meson
-BuildRequires: python3-docutils
+BuildRequires: python-docutils
 
 Requires: dbus
 Requires: glib2
