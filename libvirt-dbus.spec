@@ -1,7 +1,7 @@
 %global system_user libvirtdbus
 
 Name: libvirt-dbus
-Version: 4.0.0
+Version: 1.4.0
 Release: 1
 Group:	System/Libraries
 Summary: libvirt D-Bus API binding
