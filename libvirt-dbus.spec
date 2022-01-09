@@ -52,3 +52,5 @@ exit 0
 %{_datadir}/dbus-1/interfaces/org.libvirt.*.xml
 %{_datadir}/polkit-1/rules.d/libvirt-dbus.rules
 %{_mandir}/man8/libvirt-dbus.8*
+/lib/systemd/system/libvirt-dbus.service
+%{_prefix}/lib/systemd/user/libvirt-dbus.service
