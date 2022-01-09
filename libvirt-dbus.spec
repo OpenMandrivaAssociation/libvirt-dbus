@@ -12,6 +12,7 @@ Source0: https://libvirt.org/sources/dbus/%{name}-%{version}.tar.xz
 BuildRequires: pkgconfig(glib-2.0)
 BuildRequires: pkgconfig(libvirt)
 BuildRequires: pkgconfig(libvirt-glib-1.0)
+BuildRequires: pkgconfig(systemd)
 BuildRequires: /usr/bin/pod2man
 BuildRequires: meson
 BuildRequires: python-docutils
