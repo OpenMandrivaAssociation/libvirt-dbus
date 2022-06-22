@@ -2,7 +2,7 @@
 
 Name: libvirt-dbus
 Version: 1.4.1
-Release: 1
+Release: 2
 Group:	System/Libraries
 Summary: libvirt D-Bus API binding
 License: LGPLv2+
